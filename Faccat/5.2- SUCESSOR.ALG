@@ -7,14 +7,13 @@ Algoritmo "Sucessor"
 Var
    valor, sucessor: inteiro
 Inicio
-   // Solicita ao usuário que insira um valor
+ 
    escreva("Digite um valor: ")
    leia(valor)
 
-   // Calcula o sucessor
+
    sucessor <- valor + 1
 
-   // Exibe o sucessor
    escreval("O sucessor de ", valor, " é ", sucessor)
 
 Fimalgoritmo
