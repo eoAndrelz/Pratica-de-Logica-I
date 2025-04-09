@@ -1,13 +1,13 @@
 Algoritmo "Sucessor"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
+// Disciplina   : [LÃ³gica de ProgramaÃ§Ã£o]
+// Professor   : Jailson Costas
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
+// Autor(a)    : AndrÃ© Luiz Da Silva Santos
 // Data atual  : 17/03/2025
 Var
    valor, sucessor: inteiro
 Inicio
-   // Solicita ao usuário que insira um valor
+   // Solicita ao usuÃ¡rio que insira um valor
    escreva("Digite um valor: ")
    leia(valor)
 
@@ -15,6 +15,6 @@ Inicio
    sucessor <- valor + 1
 
    // Exibe o sucessor
-   escreval("O sucessor de ", valor, " é ", sucessor)
+   escreval("O sucessor de ", valor, " Ã© ", sucessor)
 
 Fimalgoritmo
